@@ -42,15 +42,15 @@ From audio/video bots to tools and creative automations — **we build with pass
 
 | Role        | Username         |
 |-------------|------------------|
-| 👨‍💻 Generator | [@kairo_08](https://t.me/kairo_08)   |
-| 👑 Operator  | [@Nagi2308](https://t.me/Nagi2308)   |
-| 🤝 Destroyer | [@Cruttobriid](https://t.me/Cruttobriid) |
+| 👨‍💻 Generator | [kairo_08](https://t.me/kairo_08)   |
+| 👑 Operator  | [Nagi2308](https://t.me/Nagi2308)   |
+| 🤝 Destroyer | [Cruttobriid](https://t.me/Cruttobriid) |
 
 ---
 
 ## 📢 Join the Movement
 
-- 📍 Telegram Channel: [@KnightsXbots](https://t.me/KnightsXbots)
+- 📍 Telegram Channel: [KnightsXbots](https://t.me/KnightsXbots)
 - ▶️ YouTube: [Knights X Bots](https://youtube.com/@knightsxbots?si=PL2bPA8Iwd0b0E7h)
 
 > **Quality. Innovation. Power.**  
