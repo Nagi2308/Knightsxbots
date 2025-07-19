@@ -2,7 +2,7 @@
   <img src="https://files.catbox.moe/zdbi19.jpg" width="400"/>
 </p>
 
-<h1 align="center">⚔️ Knights X Bots</h1>
+<h2 align="center"><b>⚔️ Knights X Bots</b></h2>
 <p align="center">
   <b>Crafting the New Era of Telegram Bots — Advanced, Powerful & Modern</b><br><br>
 
