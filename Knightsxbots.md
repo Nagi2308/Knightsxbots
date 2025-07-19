@@ -8,6 +8,8 @@
 
   <a href="https://t.me/KnightsXbots"><img src="https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram"></a>
   <a href="https://youtube.com/@knightsxbots?si=PL2bPA8Iwd0b0E7h"><img src="https://img.shields.io/badge/YouTube-KnightsXbots-red?logo=youtube"></a>
+  <a href="https://github.com/Nagi2308/Knightsxbots"><img src="https://img.shields.io/badge/GitHub-KnightsXbots-black?logo=github"></a>
+  <a href="https://www.instagram.com/knightsxbots/profilecard/?igsh=MWRjMjdoNnI3ZjZ2Zw=="><img src="https://img.shields.io/badge/Instagram-KnightsXbots-E4405F?logo=instagram&logoColor=white"></a>
 </p>
 
 ---
@@ -42,16 +44,18 @@ From audio/video bots to tools and creative automations — **we build with pass
 
 | Role        | Username         |
 |-------------|------------------|
-| 👨‍💻 Generator | [kairo_08](https://t.me/kairo_08)   |
-| 👑 Operator  | [Nagi2308](https://t.me/Nagi2308)   |
-| 🤝 Destroyer | [Cruttobriid](https://t.me/Cruttobriid) |
+| 👨‍💻 Generator | [@kairo_08](https://t.me/kairo_08)   |
+| 👑 Operator  | [@Nagi2308](https://t.me/Nagi2308)   |
+| 🤝 Destroyer | [@Cruttobriid](https://t.me/Cruttobriid) |
 
 ---
 
 ## 📢 Join the Movement
 
-- 📍 Telegram Channel: [KnightsXbots](https://t.me/KnightsXbots)
+- 📍 Telegram Channel: [@KnightsXbots](https://t.me/KnightsXbots)
 - ▶️ YouTube: [Knights X Bots](https://youtube.com/@knightsxbots?si=PL2bPA8Iwd0b0E7h)
+- 🖥️ GitHub: [KnightsXbots Repository](https://github.com/Nagi2308/Knightsxbots)
+- 📸 Instagram: [@knightsxbots](https://www.instagram.com/knightsxbots/profilecard/?igsh=MWRjMjdoNnI3ZjZ2Zw==)
 
 > **Quality. Innovation. Power.**  
 > Be part of the revolution — we’re just getting started.
@@ -59,4 +63,3 @@ From audio/video bots to tools and creative automations — **we build with pass
 ---
 
 > _© 2025 Knights X Bots – All bots are made with ❤️ for the Telegram community._
-
