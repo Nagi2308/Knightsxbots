@@ -44,9 +44,8 @@ From audio/video bots to tools and creative automations — **we build with pass
 
 | Role        | Username         |
 |-------------|------------------|
-| 👨‍💻 Generator | [@kairo_08](https://t.me/kairo_08)   |
-| 👑 Operator  | [@Nagi2308](https://t.me/Nagi2308)   |
-| 🤝 Destroyer | [@Cruttobriid](https://t.me/Cruttobriid) |
+| 👨‍💻 Generator | [@Nagi2308](https://t.me/Nagi2308)   |
+| 👑 Operator | [@Cruttobriid](https://t.me/Cruttobriid) |
 
 ---
 
