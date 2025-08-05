@@ -8,7 +8,7 @@
 
   <a href="https://t.me/KnightsXbots"><img src="https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram"></a>
   <a href="https://youtube.com/@knightsxbots?si=PL2bPA8Iwd0b0E7h"><img src="https://img.shields.io/badge/YouTube-KnightsXbots-red?logo=youtube"></a>
-  <a href="https://github.com/Nagi2308/Knightsxbots"><img src="https://img.shields.io/badge/GitHub-KnightsXbots-black?logo=github"></a>
+  <a href="https://github.com/Nagi2308/Knightsxbots/blob/main/Knightsxbots.md"><img src="https://img.shields.io/badge/GitHub-KnightsXbots-black?logo=github"></a>
   <a href="https://www.instagram.com/knightsxbots/profilecard/?igsh=MWRjMjdoNnI3ZjZ2Zw=="><img src="https://img.shields.io/badge/Instagram-KnightsXbots-E4405F?logo=instagram&logoColor=white"></a>
 </p>
 
