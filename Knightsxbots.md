@@ -53,7 +53,7 @@ From audio/video bots to tools and creative automations — **we build with pass
 
 - 📍 Telegram Channel: [@KnightsXbots](https://t.me/KnightsXbots)
 - ▶️ YouTube: [Knights X Bots](https://youtube.com/@knightsxbots?si=PL2bPA8Iwd0b0E7h)
-- 🖥️ GitHub: [KnightsXbots Repository](https://github.com/Nagi2308/Knightsxbots)
+- 🖥️ GitHub: [KnightsXbots Repository](https://github.com/Nagi2308/Knightsxbots/blob/main/Knightsxbots.md)
 - 📸 Instagram: [@knightsxbots](https://www.instagram.com/knightsxbots/profilecard/?igsh=MWRjMjdoNnI3ZjZ2Zw==)
 
 > **Quality. Innovation. Power.**  
