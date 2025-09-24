@@ -44,7 +44,7 @@ From audio/video bots to tools and creative automations — **we build with pass
 
 | Role        | Username         |
 |-------------|------------------|
-| 👨‍💻 Generator | [@Thw_rage](https://t.me/The_rage)   |
+| 👨‍💻 Generator | [@Thw_rage](https://t.me/Thw_rage)   |
 | 👑 Operator | [@SexyReaper](https://t.me/SexyReaper) |
 
 ---
